@@ -7,7 +7,7 @@
   <img src="https://files.catbox.moe/d1jj6o.png">
 </a>
 
-<a href="https://www.youtube.com/watch?v=81lzq7BYZJY&list=RD81lzq7BYZJY&start_radio=1">
+<a href="https://rentry.co/trueeye">
   <img src="https://files.catbox.moe/kskqcs.png">
 </a>
 
